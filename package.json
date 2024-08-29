@@ -1,0 +1,13 @@
+{
+    "name": "activityUserGit",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+      "start": "node src/http/http.service.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module"
+  }
+  
